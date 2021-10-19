@@ -1,2 +1,0 @@
-# youssouf
-django e-commerce
